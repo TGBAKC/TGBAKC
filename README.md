@@ -7,7 +7,7 @@ Fronted developer
 Hello! I'm Tugba, a developer who has embarked on the journey of software development over the past year, discovering a passion for coding. My journey started by following my curiosity and continuously equipping myself with new technologies. Currently, I am proficient in the cornerstones of modern web development: JavaScript, HTML, and CSS. With these languages, I have developed comprehensive projects to create user-friendly, aesthetic, and responsive websites, as well as interactive user experiences. I also possess competence in Figma, enhancing my ability to bridge the gap between design and code. This skill provides me with a significant advantage in ensuring visual and functional harmony in my projects. Design thinking and user experience principles always take precedence in my work. Throughout my coding journey, I have realized the importance of continual learning and keeping myself updated with every new turn of technology. Therefore, I constantly strive to learn and apply new libraries, frameworks, and best practices. In my GitHub profile, I am excited to share projects where we can collaborate and further advance my learning. If you share the same passion, please feel free to browse my projects and do not hesitate to connect!
 
 * 🌍  I'm based in Norway
-* ✉️  You can contact me at [filizakca4@gmail.com](mailto:tugbakca47@gmail.com)
+* ✉️  You can contact me at (mailto:tugbakca47@gmail.com)
 * 🧠  I'm learning java script
 * 🤝  I'm open to collaborating on Project
 
